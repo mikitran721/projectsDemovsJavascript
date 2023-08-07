@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Hoc JS voi Miki Tran",
+      "description": "Kien thuc co ban tong quan ve JS"
+    },
+    {
+      "id": 2,
+      "name": "Hoc Golang voi Miki Tran",
+      "description": "Kien thuc co ban tong quan ve Golang",
+      "description ": "Kien thuc co ban tong quan ve Golang 2023"
+    },
+    {
+      "description ": "Tu hoc Typescript 2023",
+      "id": 5
+    }
+  ]
+}
