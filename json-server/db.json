@@ -12,8 +12,9 @@
       "description ": "Kien thuc co ban tong quan ve Golang 2023"
     },
     {
-      "description ": "Tu hoc Typescript 2023",
-      "id": 5
+      "name": "Hoc Typescript",
+      "description": "Tu hoc Typescript 2023 voi Miki Tran",
+      "id": 3
     }
   ]
 }
